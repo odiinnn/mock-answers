@@ -2,213 +2,43 @@
   "questions" : [
     {
       "text": "Как звали маму Македонского?",
-      "answers": [
-        0: {
-          "text": "Олимпиада",
-          "isRight": true
-        },
-        1: {
-          "text": "Триада",
-          "isRight": false
-        },
-        2: {
-            "text": "Герра",
-            "isRight": false
-          },
-        3: {
-            "text": "Лориаль",
-            "isRight": false
-          }
-      ]
-  },
+      "answers": ["Олимпиада", "Триада", "Герра", "Лориаль"]
+    },
     {
       "text": "Что означает «тянуть резину»?",
-      "answers": [
-        0: {
-          "text": "Затягивать",
-          "isRight": true
-        },
-        1: {
-          "text": "Тупить",
-          "isRight": false
-        },
-        2: {
-            "text": "Трести",
-            "isRight": false
-          },
-        3: {
-            "text": "Смотреть",
-            "isRight": false
-          }
-      ]
-  },
+      "answers": ["Затягивать", "Тупить", "Трести", "Смотреть"]
+    },
     {
       "text": "Новобранец на флоте – это...",
-      "answers": [
-        0: {
-          "text": "Салага",
-          "isRight": true
-        },
-        1: {
-          "text": "Юнга",
-          "isRight": false
-        },
-        2: {
-            "text": "Никто",
-            "isRight": false
-          },
-        3: {
-            "text": "Смотритель",
-            "isRight": false
-          }
-      ]
-  },
+      "answers": ["Салага", "Юнга", "Никто", "Смотритель"]
+    },
     {
       "text": "С какого возраста начинается долгожительство?",
-      "answers": [
-        0: {
-          "text": "90",
-          "isRight": true
-        },
-        1: {
-          "text": "80",
-          "isRight": false
-        },
-        2: {
-            "text": "70",
-            "isRight": false
-          },
-        3: {
-            "text": "75",
-            "isRight": false
-          }
-      ]
-  },
+      "answers": ["90", "80", "70", "75"]
+    },
     {
       "text": "Когда отмечают старый Новый год?",
-      "answers": [
-        0: {
-          "text": "С 13 на 14 января",
-          "isRight": true
-        },
-        1: {
-          "text": "С 12 на 13 января",
-          "isRight": false
-        },
-        2: {
-            "text": "С 14 на 15 января",
-            "isRight": false
-          },
-        3: {
-            "text": "С 11 на 12 января",
-            "isRight": false
-          }
-      ]
-  },
+      "answers": ["С 13 на 14 января", "С 12 на 13 января", "С 14 на 15 января", "С 11 на 12 января"]
+    },
     {
       "text": "Кто написал «Ирисы»?",
-      "answers": [
-        0: {
-          "text": "Ван Гог",
-          "isRight": true
-        },
-        1: {
-          "text": "Донателло",
-          "isRight": false
-        },
-        2: {
-            "text": "Микиланджелло",
-            "isRight": false
-          },
-        3: {
-            "text": "Репин",
-            "isRight": false
-          }
-      ]
-  },
+      "answers": ["Ван Гог", "Донателло", "Микиланджелло", "Репин"]
+    },
     {
       "text": "Мои года – моё...",
-      "answers": [
-        0: {
-          "text": "Богатство",
-          "isRight": true
-        },
-        1: {
-          "text": "Деяние",
-          "isRight": false
-        },
-        2: {
-            "text": "Блаженство",
-            "isRight": false
-          },
-        3: {
-            "text": "Время",
-            "isRight": false
-          }
-      ]
+      "answers": ["Богатство", "Деяние", "Блаженство", "Время"]
     },
     {
       "text": "Сколько километров в одной миле?",
-      "answers": [
-        0: {
-          "text": "1,6",
-          "isRight": true
-        },
-        1: {
-          "text": "2,2",
-          "isRight": false
-        },
-        2: {
-            "text": "1,4",
-            "isRight": false
-          },
-        3: {
-            "text": "1,7",
-            "isRight": false
-          }
-      ]
+      "answers": ["1,6", "2,2", "1,4", "1,7"]
     },
     {
       "text": "В каком месяце 28 дней?",
-      "answers": [
-        0: {
-          "text": "Каждом",
-          "isRight": true
-        },
-        1: {
-          "text": "Февраль",
-          "isRight": false
-        },
-        2: {
-            "text": "Январь",
-            "isRight": false
-          },
-        3: {
-            "text": "Декабрь",
-            "isRight": false
-          }
-      ]
+      "answers": ["Каждом", "Февраль", "Январь", "Декабрь"]
     },
     {
       "text": "Эта фигура на шахматной доске делает только диагональный ход. Какая?",
-      "answers": [
-        0: {
-          "text": "Слон",
-          "isRight": true
-        },
-        1: {
-          "text": "Королева",
-          "isRight": false
-        },
-        2: {
-            "text": "Король",
-            "isRight": false
-          },
-        3: {
-            "text": "Конь",
-            "isRight": false
-          }
-      ]
+      "answers": ["Слон", "Королева", "Король", "Конь"]
     }
   ]
 }
